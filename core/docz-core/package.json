@@ -55,7 +55,7 @@
     "react-docgen-typescript": "^2.1.0",
     "recast": "^0.18.1",
     "resolve": "^1.11.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.10.0",
     "signale": "^1.4.0",
     "titleize": "^2.1.0",
     "tslib": "^1.11.1",
