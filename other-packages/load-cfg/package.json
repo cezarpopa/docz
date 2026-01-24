@@ -29,6 +29,6 @@
     "@babel/register": "^7.5.5",
     "find-up": "^4.1.0",
     "fs-extra": "^8.1.0",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.23"
   }
 }
